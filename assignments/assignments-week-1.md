@@ -66,7 +66,7 @@ Bekijk de volgende video:
 
 - 2.3 Template strings
 
-In opdracht 2.2 zijn er met behulp van `createElement()` en `appendChild` elementen aan de DOM toegevoegd, dit kun je echter ook doen met template strings. Pas opdracht 2.2 zo aan dat er gebruik wordt gemaakt van een template string.
+In opdracht 2.1 zijn er met behulp van `createElement()` en `appendChild` elementen aan de DOM toegevoegd, dit kun je echter ook doen met template strings. Pas opdracht 2.1 zo aan dat er gebruik wordt gemaakt van een template string.
 
 Hulp:
 
